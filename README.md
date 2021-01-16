@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Office
 
 A Responsive HTMl Template for Businesses.
@@ -22,4 +23,6 @@ A Responsive HTMl Template for Businesses.
 #Demo Link
 Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/Flusk/)
 
+=======
+>>>>>>> 534221cb8de943d6e868c2de31b9ffd8cc068568
 
